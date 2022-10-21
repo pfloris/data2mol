@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 23 14:16:30 2021
 
-@author: ponneso
+@author: pfloris
 """
 
 from math import nan
